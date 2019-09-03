@@ -1,0 +1,14 @@
+{
+  "srn": "160269044",
+  "name": "Nur Muhammad Bin Khameed",
+  "exercise1": {
+    "p": "2685735182033999",
+    "g": "7",
+    "a": "3628329539",
+    "b": "5915656601",
+    "cipherText": {
+      "encoded": "1624013720517162",
+      "base64": "BcUIKOv6Kg=="
+    }
+  }
+}
